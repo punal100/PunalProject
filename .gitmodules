@@ -1,3 +1,6 @@
 [submodule "Plugins/AlignableSizeBox"]
 	path = Plugins/AlignableSizeBox
 	url = https://github.com/punal100/AlignableSizeBox.git
+[submodule "Plugins/PunalWebsocket"]
+	path = Plugins/PunalWebsocket
+	url = https://github.com/punal100/PunalWebsocket.git

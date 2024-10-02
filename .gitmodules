@@ -7,3 +7,6 @@
 [submodule "Plugins/Punal_Shaders"]
 	path = Plugins/Punal_Shaders
 	url = https://github.com/punal100/Punal_Shaders.git
+[submodule "Plugins/ControllableScrollBox"]
+	path = Plugins/ControllableScrollBox
+	url = https://github.com/punal100/ControllableScrollBox.git
